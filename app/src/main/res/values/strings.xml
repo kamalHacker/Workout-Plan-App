@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Workout Plan</string>
+    <string name="chest">Chest Workout</string>
+    <string name="shoulders">Shoulders Workout</string>
+    <string name="biceps">Biceps Workout</string>
+    <string name="triceps">Triceps Workout</string>
+    <string name="back">Back Workout</string>
+    <string name="legs">Legs Workout</string>
+    <string name="rest_day">Rest Day</string>
+    <string name="day">Day %d</string>
+
+    <string name="warmup_push_ups">2 Sets of Push ups (Warm up)</string>
+    <string name="bench_press">Flat Bench Press - 3 sets of 10/12 reps</string>
+    <string name="incline_bench_press">Incline Bench Press - 3 sets of 10/12 reps</string>
+    <string name="decline_bench_press">Decline Bench Press - 3 sets of 10/12 reps</string>
+    <string name="incline_chest_press_machine">Incline Chest Press Machine - 3 sets of 10/12 reps</string>
+    <string name="pec_dec_fly">Pec Dec Fly - 3 sets of 10/12 reps</string>
+    <string name="cardio">Walk on the treadmill for 15 minutes at a moderate pace.</string>
+
+    <string name="warmup_pull_ups">2 Sets of Pull Ups (Warm up)</string>
+    <string name="lat_pulldown">Lat Pulldown - 3 sets of 10/12 reps</string>
+    <string name="seated_rows">Seated Rows - 3 sets of 10/12 reps</string>
+    <string name="pullover">Cable Pullover - 3 sets of 10/12 reps</string>
+    <string name="dumbell_rows">Dumbell Rows - 3 sets of 10/12 reps</string>
+    <string name="assisted_pull_ups">Assisted Pull Ups - 3 sets of 10/12 reps</string>
+
+    <string name="warmup_dumbell_curls">Dumbell Curls - 2 sets of 10/12 reps (Warm up Sets, choose moderate weights)</string>
+    <string name="incline_curlss">Incline Dumbell Curls - 3 sets of 10/12 reps</string>
+    <string name="barbell_curls">Barbell Curls - 3 sets of 10/12 reps</string>
+    <string name="preacher_curls">Preacher Curls - 3 sets of 10/12 reps</string>
+    <string name="hammer_curls">Hammer Curls - 3 sets of 10/12 reps</string>
+    <string name="reverse_curls">Reverse Cable Curls - 3 sets of 10/12 reps</string>
+
+    <string name="warmup_diamond_pushups">2 Sets of Diamond Push Ups (Warm up)</string>
+    <string name="triceps_overhead_1">Overhead Triceps Extension (Single Hand with dumbell) - 3 sets of 10/12 reps</string>
+    <string name="triceps_overhead_2">Overhead Triceps Extension (Both Hands with dumbell) - 3 sets of 10/12 reps</string>
+    <string name="dips">Triceps Dips - 3 sets of 10/12 reps</string>
+    <string name="push_down">Bar Push Down - 3 sets of 10/12 reps</string>
+
+    <string name="warmup_squats">Free Squats - 2 sets of 15 reps (Warm up)</string>
+    <string name="barbell_squats">Barbell Squats - 3 sets of 10/12 reps</string>
+    <string name="lunges">Lunges - 3 sets of 10/12 reps</string>
+    <string name="leg_extension">Leg Extension - 3 sets of 10/12 reps</string>
+    <string name="leg_press">Leg Press - 3 sets of 10/12 reps</string>
+    <string name="leg_curl">Seated Leg Curls - 3 sets of 10/12 reps</string>
+
+    <string name="warmup_shoulder">Dumbell Shoulder Press - 2 sets of 12 reps (Warm up)</string>
+    <string name="barbell_shoulder_press">Barbell Squats - 3 sets of 10/12 reps</string>
+    <string name="behind_the_neck_shoulder_press">Behind The Neck Shoulder Press - 3 sets of 10/12 reps</string>
+    <string name="lateral_raises">Lateral Raises - 3 sets of 10/12 reps</string>
+    <string name="front_raises">Dumbell Front Raises - 3 sets of 10/12 reps</string>
+    <string name="reverse_fly">Seated Reverse Fly - 3 sets of 10/12 reps</string>
+    <string name="shrugs">Shrugs - 3 sets of 10/12 reps</string>
+
+    <string name="rest_day_description">Contrary to popular belief, a rest day isn’t about being lazy on the couch. It’s during this time that the beneficial effects of exercise take place. Specifically, rest is essential for muscle growth.Also, your muscles store carbohydrates in the form of glycogen. During exercise, your body breaks down glycogen to fuel your workout. Rest gives your body time to replenish these energy stores before your next workout.</string>
+
+</resources>
